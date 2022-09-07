@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Zaky Riyadi</h1>
 <h3 align="center">Passionate about data, ML and NLP</h3>
-<img align="right" alt="Coding" width="200" height="200" src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
+<img align="right" alt="Coding" width="300" height="300" src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaky9&label=Profile%20views&color=0e75b6&style=flat" alt="zaky9" /> </p>
