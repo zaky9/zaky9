@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, Machine learning**
 
-- ⚡ Fun fact **I like to make dad's joke**
+- ⚡ Fun fact **I love to make dad's joke**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
