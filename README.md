@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working and learning on **NLP**
 
-- 💬 Ask me about **Python, Machine learning**
+- 💬 Ask me about **Python or Machine learning**
 
 - ⚡ Fun fact **I love cats!**
 
