@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Zaky Riyadi</h1>
-<h3 align="center">A passionate about data, ML and NLP</h3>
+<h3 align="center">Passionate about data, ML and NLP</h3>
 <img align="right" alt="Coding" width="200" height="200" src="https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
 
 
