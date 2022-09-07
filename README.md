@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaky9&label=Profile%20views&color=0e75b6&style=flat" alt="zaky9" /> </p>
 
-- 🌱 I’m currently working and learning on **NLP**
+- 🌱 I’m currently learning **NLP**
 
 - 💬 Ask me about **Python or Machine learning**
 
